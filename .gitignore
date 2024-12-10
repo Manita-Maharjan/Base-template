@@ -1,0 +1,9 @@
+db.sqlite
+images/
+env/
+
+# dotenv
+.env
+# pyenv
+.python-version
+.env.local
